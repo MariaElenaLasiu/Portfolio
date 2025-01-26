@@ -7,4 +7,4 @@ Welcome to my portfolio showcasing my **SQL, Power BI, and Tableau projects**. T
 
 ### 1. ## 📊 Crunchbase Startup Funding Analysis (SQL)
 **Description:** An SQL-based analysis of startup funding trends in Italy using Crunchbase data.  
-🔗 **[View Project on GitHub](https://github.com/YOUR_GITHUB_USERNAME/Crunchbase-Funding-Analysis)**
+🔗 **[View Project on GitHub](https://github.com/MariaElenaLasiu/Crunchbase-Funding-Analysis.git)**
