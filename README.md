@@ -1,8 +1,7 @@
-
 # Data Insights and Analytics Portfolio
 
 Welcome to my portfolio showcasing my **SQL, Power BI, and Tableau projects**. This repository contains hands-on data analysis projects focused on **customer segmentation, sales insights, and business intelligence**.
-
+---
 ##  Projects
 
 ### 1. Crunchbase Startup Funding Analysis – SQL Project ()
@@ -12,6 +11,7 @@ The goal is to **identify investment trends, top-funded industries, and leading 
 * Data was taken from Crunchbase's public investments data (tutorial.crunchbase_investments).
 
 The project addresses the following business questions:
+
 **1. Which industries in Italy raised the most money?**  
 **2. How has startup funding in Italy changed over time?**  
 **3. Which Italian companies secured the most funding?**  
