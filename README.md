@@ -1,6 +1,7 @@
 # Data Insights and Analytics Portfolio
 
-## Welcome to my portfolio showcasing my **SQL, Power BI, and Tableau projects**. This repository contains hands-on data analysis projects focused on **customer segmentation, sales insights, and business intelligence**.
+Welcome to my portfolio showcasing my **SQL, Power BI, and Tableau projects**. This repository contains hands-on data analysis projects focused on **customer segmentation, sales insights, and business intelligence**.
+
 ---
 ##  Projects
 
