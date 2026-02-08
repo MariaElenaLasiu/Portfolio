@@ -1,6 +1,6 @@
 # Research & Analytics Portfolio
 
-Welcome to my portfolio showcasing my transition from **Research Management to Product Analytics**. This repository demonstrates hands-on experience in **data-driven decision making, user research, business intelligence, and product strategy** through projects using **Python, SQL, Power BI, and strategic frameworks**.
+Welcome to my portfolio showcasing my skills in Research and Analytics. This repository demonstrates hands-on experience in **data-driven decision making, user research, business intelligence, and product strategy** through projects using **Python, SQL, Power BI, and strategic frameworks**.
 
 My work bridges **quantitative analysis, stakeholder insights, and strategic product thinking**—core competencies for Product Management and Product Analyst roles.
 
@@ -78,12 +78,14 @@ My work bridges **quantitative analysis, stakeholder insights, and strategic pro
 
 ## About Me
 
-I'm a **Research Manager** transitioning into **Product Management and Product Analytics**, bringing:
-- ✅ **Research expertise**: Designed and executed UX research projects for digital health startups
-- ✅ **Data analysis skills**: Proficient in SQL, Python, Power BI, and statistical methods
-- ✅ **Strategic thinking**: Experience translating user insights and data into product recommendations
-- ✅ **Stakeholder management**: Collaborated with cross-functional teams including developers, designers, and executives
-- ✅ **Business acumen**: Understanding of revenue models, KPIs, and growth metrics
+I am Research Manager with a passion and expertise in UX Research and Product Development. 
+
+I bridge the gap between user needs and business strategy, bringing:
+- **Research Expertise**: Designing and executing end-to-end UX research for digital health startups,
+- **Technical Proficiency**: Leveraging SQL, Python, Power BI, and statistical methods to uncover actionable trends,
+- **Strategic Impact**: Translating complex user data into clear product roadmaps and feature recommendations,
+- **Cross-Functional Leadership**: Partnering with engineering, design, and C-suite stakeholders to align vision,
+- **Business acumen**: Understanding of revenue models, KPIs, and growth metrics
 
 My unique value lies in combining **research rigor with analytical depth**—enabling data-informed product decisions that balance user needs with business objectives.
 
@@ -91,7 +93,7 @@ My unique value lies in combining **research rigor with analytical depth**—ena
 
 ## Let's Connect
 
-📧 **Email:** [Your Email]
+📧 **Email:** mariaelenalasiu.insights@gmail.com
 💼 **LinkedIn:** [linkedin.com/in/mariaelena-lasiu](https://www.linkedin.com/in/mariaelena-lasiu)
 🌐 **GitHub:** [github.com/MariaElenaLasiu](https://github.com/MariaElenaLasiu)
 
